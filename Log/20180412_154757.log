@@ -1,0 +1,14 @@
+2018-04-12 15:47:57.041 INFO: Start to select browser name from properties file
+2018-04-12 15:47:57.044 INFO: Your had select test browser type is: Chrome
+2018-04-12 15:47:57.044 INFO: The test server URL is: https://www.jd.com
+2018-04-12 15:48:00.547 INFO: Launching Chrome ...
+2018-04-12 15:48:02.317 INFO: Open URL: https://www.jd.com
+2018-04-12 15:48:03.525 INFO: Maximize browser...
+2018-04-12 15:48:03.539 INFO: Wait for 5 seconds.
+2018-04-12 15:48:03.732 INFO: Clean the value if any in [[ChromeDriver: chrome on XP (e06f2b107d3ad44133ee825c1e5d464a)] -> id: key].
+2018-04-12 15:48:03.836 INFO: Type value is: iPhone.
+2018-04-12 15:48:04.003 INFO: Element: [[ChromeDriver: chrome on XP (e06f2b107d3ad44133ee825c1e5d464a)] -> xpath: //*[@id='search']/div/div[2]/button] was clicked.
+2018-04-12 15:48:09.354 INFO: Element: [[ChromeDriver: chrome on XP (e06f2b107d3ad44133ee825c1e5d464a)] -> xpath: //*[@id='J_goodsList']/ul/li[1]/div/div[1]/a/img] was clicked.
+2018-04-12 15:48:10.399 INFO: 当前窗口数量： 2
+2018-04-12 15:48:11.909 INFO: new page title is 【AppleiPhone X】Apple iPhone X (A1865) 64GB 深空灰色 移动联通电信4G手机【行情 报价 价格 评测】-京东
+2018-04-12 15:48:13.352 INFO: Element: [[ChromeDriver: chrome on XP (e06f2b107d3ad44133ee825c1e5d464a)] -> id: InitCartUrl] was clicked.

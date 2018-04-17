@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="Suite">  
+  <test name="TestJDActions">  
+  <groups> 
+      <run> 
+         <include name="Test_HomePage_Search" /> 
+         <include name="Test_AddGoodToCart" /> 
+       </run> 
+    </groups> 
+    <classes>  
+      
+      <class name="testSuite.Test_HomePage_Search"/>  
+      <class name="testSuite.Test_AddGoodToCart"/>  
+    
+    </classes>  
+  </test>   
+</suite>   
